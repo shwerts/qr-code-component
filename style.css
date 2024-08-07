@@ -27,6 +27,7 @@ main {
   padding: 16px;
   text-align: center;
   border-radius: 20px;
+  box-shadow: 4px 4px 1em rgba(0, 0, 0, 4.77%);
 }
 
 .text {
