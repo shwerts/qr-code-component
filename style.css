@@ -1,4 +1,4 @@
-@media (max-width: 500px) { /* Smartphones style */
+@media (max-width: 500px) { /* Layout for mobile phones */
   main {
     width: 85%;
   }
@@ -15,6 +15,7 @@ body {
   min-height: 100vh;
   display: flex;
   align-items: center;
+  font-size: 15px;
 }
 
 /* Main content */
@@ -23,13 +24,12 @@ main {
   background-color: white;
   width: 320px;
   margin: auto;
-  padding: 1em;
+  padding: 16px;
   text-align: center;
   border-radius: 20px;
 }
 
 .text {
-  font-size: 15px;
   margin: 24px 0;
   padding: 0 1rem;
 }
